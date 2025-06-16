@@ -1,6 +1,6 @@
-# master
+cd telegram-bot
 git init
-git remote add origin https://github.com/Шумо/telegram-bot.git
 git add .
-git commit -m "first commit"
+git commit -m "First commit"
+git remote add origin https://github.com/ШУМО/telegram-bot.git
 git push -u origin master
